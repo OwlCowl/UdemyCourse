@@ -1,2 +1,0 @@
-# UdemyCourse
-My trial project
